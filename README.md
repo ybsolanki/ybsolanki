@@ -61,8 +61,10 @@ ZEDOX is a project identity created and maintained by me. It is not a registered
 This profile represents my personal technical work, projects, and learning journey.<br>- A Discord bot<br>- A game project<br>- Mashtalk – a web-based communication project (website + logic)<br><br>I focus on improving my problem-solving skills, understanding core computer science concepts,<br>and turning ideas into working applications.<br><br>Currently learning:<br>- Better app development workflows<br>- Backend logic and clean code practices<br><br>Goal:<br>To grow into a skilled software developer by building meaningful projects and continuously improving my fundamentals.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solankiyug41) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yug-solnaki-03623b394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:solankikappu82@gmail.com) 
+## 🌐 Socials
+- **LinkedIn:** https://www.linkedin.com/in/yug-solnaki-03623b394  
+- **Instagram:** https://www.instagram.com/solankiyug41  
+- **Email:** solankiyug41@gmail.com 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
