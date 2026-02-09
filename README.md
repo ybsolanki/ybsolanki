@@ -1,5 +1,58 @@
 # 💫 About Me:
-Hi, I’m Yug 👋  <br>A Class 12 Science student with a strong interest in programming and software development.<br><br>I work with Java, C++, and C at a beginner-to-intermediate level and enjoy learning by building real projects.<br>Some of my key projects include:I am the founder of **ZEDOX**, an independent technology project focused on building experimental and decentralized digital products.
+# Yug Solanki (ybsolanki)
+
+## 💫 About Me
+Hi, I’m **Yug Solanki** 👋  
+A **Class 12 Science student** with a strong interest in **programming and software development**.
+
+I work with **Java, C++, and C** at a beginner-to-intermediate level and enjoy learning by building real projects.  
+This profile represents my **personal technical work, projects, and learning journey**.
+
+I focus on improving my **problem-solving skills**, understanding **core computer science concepts**, and turning ideas into **working applications**.
+
+---
+
+## 🚀 ZEDOX
+I am the **founder of ZEDOX**, an independent technology project focused on building **experimental and decentralized digital products**.
+
+**ZEDOX is a personal project identity created and maintained by me.  
+It is NOT a registered company.**
+
+ZEDOX exists as a space for experimentation, learning, and building practical prototypes.
+
+---
+
+## 🔗 MeshTalk
+Under ZEDOX, I lead **MeshTalk**, a **peer-to-peer communication experiment**.
+
+MeshTalk explores:
+- Decentralized communication concepts  
+- Offline and device-to-device interaction  
+- Practical implementation of P2P ideas  
+
+MeshTalk is a **learning-focused project**, not a commercial product.
+
+---
+
+## 🧩 Projects
+Some of my key projects include:
+- 🤖 **A Discord Bot**
+- 🎮 **A Game Project**
+- 🌐 **MeshTalk (Mashtalk)** – a web-based communication project (website + logic)
+
+---
+
+## 📚 Currently Learning
+- Better app development workflows  
+- Backend logic  
+- Clean code practices  
+
+---
+
+## 🎯 Goal
+To grow into a **skilled software developer** by building meaningful projects and continuously improving my fundamentals.
+
+---
 
 Under ZEDOX, I lead the **MeshTalk** project, a peer-to-peer communication experiment exploring decentralized and offline communication concepts.
 
