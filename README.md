@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I’m Yug 👋  <br>A Class 12 Science student with a strong interest in programming and software development.<br><br>I work with Java, C++, and C at a beginner-to-intermediate level and enjoy learning by building real projects.<br>Some of my key projects include:<br>- A Discord bot<br>- A game project<br>- Mashtalk – a web-based communication project (website + logic)<br><br>I focus on improving my problem-solving skills, understanding core computer science concepts,<br>and turning ideas into working applications.<br><br>Currently learning:<br>- Better app development workflows<br>- Backend logic and clean code practices<br><br>Goal:<br>To grow into a skilled software developer by building meaningful projects and continuously improving my fundamentals.
+Hi, I’m Yug 👋  <br>A Class 12 Science student with a strong interest in programming and software development.<br><br>I work with Java, C++, and C at a beginner-to-intermediate level and enjoy learning by building real projects.<br>Some of my key projects include:I am the founder of **ZEDOX**, an independent technology project focused on building experimental and decentralized digital products.
+
+Under ZEDOX, I lead the **MeshTalk** project, a peer-to-peer communication experiment exploring decentralized and offline communication concepts.
+
+ZEDOX is a project identity created and maintained by me. It is not a registered company.
+
+This profile represents my personal technical work, projects, and learning journey.<br>- A Discord bot<br>- A game project<br>- Mashtalk – a web-based communication project (website + logic)<br><br>I focus on improving my problem-solving skills, understanding core computer science concepts,<br>and turning ideas into working applications.<br><br>Currently learning:<br>- Better app development workflows<br>- Backend logic and clean code practices<br><br>Goal:<br>To grow into a skilled software developer by building meaningful projects and continuously improving my fundamentals.
 
 
 ## 🌐 Socials:
